@@ -20,7 +20,7 @@ app.use(
             graphiql: true,
             schema: GraphQLSchema,
         };
-    }),
+    })
 );
 
 module.exports = app;
